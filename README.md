@@ -71,6 +71,4 @@ This project is open-source and available under the MIT License.
 
 ---
 
-```
 
-This `README.md` provides an organized and professional overview of your project, following standard GitHub Markdown syntax. You can replace `"path/to/accuracy_plot.png"` with the actual path of the plot image if you wish to include it in the repository.
