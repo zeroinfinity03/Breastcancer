@@ -1,6 +1,3 @@
-Here’s a well-structured `README.md` file for your project:
-
-```markdown
 # Breast Cancer Classification Using Neural Networks
 
 This project leverages a neural network model to classify breast cancer cases as benign or malignant. Using clinical data, the model aims to support early diagnosis by accurately identifying cancer types based on various cellular features.
@@ -38,9 +35,8 @@ The dataset used is the [Breast Cancer Wisconsin (Diagnostic) Data Set](https://
 ## Installation
 To run this project, install the required libraries:
 
-```bash
 pip install numpy pandas matplotlib tensorflow scikit-learn
-```
+
 
 ## Model Architecture
 The neural network is a simple feed-forward model with:
